@@ -1,1 +1,1 @@
-_nodemodules_
+/node_modules/
